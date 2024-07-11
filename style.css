@@ -1,0 +1,17 @@
+:root {
+  font-family: 'Open Sans', serif;
+}
+
+body {
+  background-color: #333333;
+}
+
+main {
+  background-color: #ffffff;
+
+  width: 1120px;
+}
+
+.subtitle {
+  color: #e1624f;
+}
