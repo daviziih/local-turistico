@@ -26,9 +26,9 @@ main {
 .container {
   width: 1120px;
 
-  margin: 80px auto;
+  margin: 80px auto 0;
 
-  padding: 80px 0;
+  padding: 80px 0 20px;
 }
 
 .subtitle {
@@ -88,4 +88,10 @@ h1 {
 #description {
   margin-top: 80px;
   text-align: center;
+}
+
+footer {
+  text-align: center;
+
+  padding: 40px;
 }
